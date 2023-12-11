@@ -1,0 +1,6 @@
+name: Gladiator
+version: '${project.version}'
+main: fr.azuxo.gladiator.Gladiator
+commands:
+  class:
+    description: This command gives you the opportunity to choose your class.
